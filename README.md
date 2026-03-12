@@ -87,7 +87,7 @@ As configurações de ALG ajudam o roteador a processar protocolos que normalmen
 
 | Opção | Aplicação Principal | Nível de Segurança |
 | :--- | :--- | :--- |
-| PPTP | VPN Legada | Baixo |
+| PPTP | VPN Antiga | Baixo |
 | IPsec | VPN Moderna e Corporativa | Alto |
 | RTSP | Streaming de Vídeo / Câmeras | N/A (Tráfego de Mídia) |
 | SIP | Telefonia IP (VoIP) | N/A (Sinalização) |
