@@ -57,7 +57,7 @@ Mecanismo de controle de acesso granular para tráfego IPv6.
 
 ---
 
-## 2. Application Layer Gateway (ALG)
+## 2. Configurações do Firewall de Aplicações (ALG)
 
 As configurações de ALG ajudam o roteador a processar protocolos que normalmente apresentam dificuldades para atravessar o NAT (Network Address Translation).
 
